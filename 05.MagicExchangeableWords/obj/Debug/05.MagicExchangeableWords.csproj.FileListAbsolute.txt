@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\bin\Debug\05.MagicExchangeableWords.exe.config
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\bin\Debug\05.MagicExchangeableWords.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\bin\Debug\05.MagicExchangeableWords.pdb
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\obj\Debug\05.MagicExchangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\obj\Debug\05.MagicExchangeableWords.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\05.MagicExchangeableWords\obj\Debug\05.MagicExchangeableWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.exe.config
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\bin\Debug\04.CharacterMultiplier.pdb
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\04.CharacterMultiplier\obj\Debug\04.CharacterMultiplier.pdb

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\bin\Debug\02.ConvertFromBase-NToBase-10.exe.config
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\bin\Debug\02.ConvertFromBase-NToBase-10.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\bin\Debug\02.ConvertFromBase-NToBase-10.pdb
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\obj\Debug\02.ConvertFromBase-NToBase-10.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\obj\Debug\02.ConvertFromBase-NToBase-10.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\obj\Debug\02.ConvertFromBase-NToBase-10.exe
+C:\Users\Icaka\source\repos\StringAndTextProcessing-Exercises\02.ConvertFromBase-NToBase-10\obj\Debug\02.ConvertFromBase-NToBase-10.pdb
